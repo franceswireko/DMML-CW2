@@ -1,5 +1,5 @@
 # DMML-CW2
-Second Coursework Submission for Data Mining &amp; Machine Learning
+
 A. Building an Ensemble
 Ensemble learning uses multiple machine learning models to try to make better predictions on a dataset. 
 An ensemble model works by training different models on a dataset and having each model make predictions individually. 
